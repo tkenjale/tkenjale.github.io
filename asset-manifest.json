@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.52a26c30.chunk.css",
+    "main.js": "/static/js/main.e971bdd7.chunk.js",
+    "main.js.map": "/static/js/main.e971bdd7.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.046f2429.js",
+    "runtime-main.js.map": "/static/js/runtime-main.046f2429.js.map",
+    "static/js/2.4ed3feb2.chunk.js": "/static/js/2.4ed3feb2.chunk.js",
+    "static/js/2.4ed3feb2.chunk.js.map": "/static/js/2.4ed3feb2.chunk.js.map",
+    "static/css/3.df879eac.chunk.css": "/static/css/3.df879eac.chunk.css",
+    "static/js/3.2eb7543c.chunk.js": "/static/js/3.2eb7543c.chunk.js",
+    "static/js/3.2eb7543c.chunk.js.map": "/static/js/3.2eb7543c.chunk.js.map",
+    "static/css/4.d7ceb645.chunk.css": "/static/css/4.d7ceb645.chunk.css",
+    "static/js/4.7f31b6fd.chunk.js": "/static/js/4.7f31b6fd.chunk.js",
+    "static/js/4.7f31b6fd.chunk.js.map": "/static/js/4.7f31b6fd.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.211339f475e33a6052ec5242015e8745.js": "/precache-manifest.211339f475e33a6052ec5242015e8745.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/3.df879eac.chunk.css.map": "/static/css/3.df879eac.chunk.css.map",
+    "static/css/4.d7ceb645.chunk.css.map": "/static/css/4.d7ceb645.chunk.css.map",
+    "static/css/main.52a26c30.chunk.css.map": "/static/css/main.52a26c30.chunk.css.map",
+    "static/js/2.4ed3feb2.chunk.js.LICENSE.txt": "/static/js/2.4ed3feb2.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/awsLogo.png": "/static/media/awsLogo.b4597ef3.png",
+    "static/media/contactMailDark.svg": "/static/media/contactMailDark.51cf7192.svg",
+    "static/media/developerActivity.svg": "/static/media/developerActivity.59389695.svg",
+    "static/media/gtLogo2.png": "/static/media/gtLogo2.825144be.png",
+    "static/media/manOnTable.svg": "/static/media/manOnTable.52be3144.svg",
+    "static/media/nextuLogo.webp": "/static/media/nextuLogo.829ad0a1.webp",
+    "static/media/saayaHealthLogo.webp": "/static/media/saayaHealthLogo.25018d29.webp",
+    "static/media/skill.svg": "/static/media/skill.34409398.svg",
+    "static/media/TalkCard.scss": "/static/media/talksCardBack.13780cdd.svg",
+    "static/media/unccLogo.png": "/static/media/unccLogo.ef757e1c.png",
+    "static/media/urcLogo.png": "/static/media/urcLogo.835b3a86.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.046f2429.js",
+    "static/js/2.4ed3feb2.chunk.js",
+    "static/css/main.52a26c30.chunk.css",
+    "static/js/main.e971bdd7.chunk.js"
+  ]
+}
